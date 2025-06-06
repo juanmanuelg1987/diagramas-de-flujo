@@ -436,17 +436,4 @@ flowchart TD
 
 
 
-### Estructura de archivos:
-```
-tu-repositorio/
-├── README.md (este archivo)
-├── ejercicios/
-│   ├── ejercicio-01.md
-│   ├── ejercicio-02.md
-│   └── ...
-└── imagenes/
-    ├── ejercicio-01.png
-    ├── ejercicio-02.png
-    └── ...
-```
 
